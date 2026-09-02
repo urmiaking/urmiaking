@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://masoudkhodadadi.ir" target="_blank"><img src="https://img.shields.io/badge/Website-masoudkhodadadi.ir-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:masoud.xpress@gmail.com"><img src="https://img.shields.io/badge/Email-masoud.xpress%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/urmiaking"><img src="https://img.shields.io/badge/GitHub-urmiaking-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://komarev.com/ghpvc/?username=urmiaking&label=Profile%20Views&color=00E5FF&style=for-the-badge" alt="Profile Views"><img src="https://komarev.com/ghpvc/?username=urmiaking&label=Profile%20Views&color=00E5FF&style=for-the-badge" /></a>
@@ -24,6 +25,7 @@ namespace MasoudKhodadadi
     public class SeniorSoftwareEngineer
     {
         public string Name => "Masoud Khodadadi";
+        public string Website => "https://masoudkhodadadi.ir 🌐";
         public string CurrentRole => "Software Engineer @ Urmia Municipality";
         public string Location => "Urmia, Iran 📍";
         public string Education => "Rank 1 M.Sc. & B.Sc. in Software Engineering @ Urmia University 🎓";
@@ -39,6 +41,7 @@ namespace MasoudKhodadadi
 }
 ```
 
+- 🌐 **Personal Website & Portfolio**: Explore my live interactive portfolio and engineering works at **[masoudkhodadadi.ir](https://masoudkhodadadi.ir)**.
 - 🏛️ **Senior Full-Stack .NET Developer & Software Architect** with a solid foundation in building enterprise-grade, concurrency-safe, and fault-tolerant distributed applications.
 - 🎓 **Top of Class**: Ranked **#1** in both Master's (M.Sc.) and Bachelor's (B.Sc.) in Software Engineering at Urmia University.
 - 🪙 **Creator of [GoldEx](https://goldexsoft.ir)**: Next-generation jewelry ERP, live pricing engine, and multi-tenant inventory platform powered by **.NET 10, Blazor**, and **AI via MCP**.
@@ -122,6 +125,9 @@ namespace MasoudKhodadadi
 </p>
 
 <p align="center">
+  <a href="https://masoudkhodadadi.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Website-masoudkhodadadi.ir-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website" />
+  </a>
   <a href="mailto:masoud.xpress@gmail.com">
     <img src="https://img.shields.io/badge/Email-masoud.xpress%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Masoud" />
   </a>
