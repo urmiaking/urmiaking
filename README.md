@@ -51,14 +51,14 @@ namespace MasoudKhodadadi
 <div align="center">
 
 #### 💻 Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23_14-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_14-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🏛️ Architecture & Best Practices
@@ -69,12 +69,12 @@ namespace MasoudKhodadadi
 ![Concurrency Safe](https://img.shields.io/badge/Performance-Concurrency_Safe-00897B?style=for-the-badge)
 
 #### 🤖 AI & Protocols
-![MCP](https://img.shields.io/badge/Protocol-Model_Context_Protocol_(MCP)-00E5FF?style=for-the-badge&logo=openai&logoColor=black)
+![MCP](https://img.shields.io/badge/Protocol-Model_Context_Protocol_(MCP)-00E5FF?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/AI-Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/AI-Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 
 #### 🗄️ Databases & Storage
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -104,12 +104,12 @@ namespace MasoudKhodadadi
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urmiaking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00e5ff&text_color=c9d1d9" alt="Masoud's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urmiaking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=urmiaking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00e5ff&text_color=c9d1d9" alt="Masoud's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=urmiaking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urmiaking&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff7b72&currStreakLabel=00e5ff" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=urmiaking&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff7b72&currStreakLabel=00e5ff" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
