@@ -1,7 +1,7 @@
 <!-- GitHub profile of @urmiaking. Visual identity: electric cyan / violet / deep navy. -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=245&section=header&text=Masoud%20Khodadadi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Software%20Engineer%20%7C%20Solution%20Architect%20%7C%20AI-Native%20Builder&descFontSize=17&descAlignY=60&descAlign=50" width="100%" alt="Masoud Khodadadi — Software Engineer, Solution Architect, AI-Native Builder" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=245&section=header&text=Masoud%20Khodadadi&fontSize=52&fontColor=ffffff&fontAlignY=37&desc=Software%20Engineer%20%7C%20Solution%20Architect%20%7C%20AI-Native%20Builder&descFontSize=17&descAlignY=60&descAlign=50" width="100%" alt="Masoud Khodadadi — Software Engineer, Solution Architect, AI-Native Builder" />
 
 <a href="https://masoudkhodadadi.ir"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&height=60&lines=Building%20software%20that%20solves%20real%20problems.%3BArchitect.%20Orchestrate.%20Validate.%20Deliver.%3BAI%20Agents%20amplify%20engineering%20judgment.%3BFrom%20the%20first%20sketch%20to%20production." alt="Software engineering, AI-native product development, and production delivery" /></a>
 
