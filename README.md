@@ -9,7 +9,7 @@
 
 <a href="https://masoudkhodadadi.ir"><img src="https://img.shields.io/badge/PORTFOLIO-My%20website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PORTFOLIO My website" /></a>
 <a href="https://masoudkhodadadi.ir/projects.html"><img src="https://img.shields.io/badge/PROJECTS-Case%20studies-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="PROJECTS Case studies" /></a>
-<a href="mailto:masoud.xpress@gmail.com"><img src="https://img.shields.io/badge/CONTACT-Let's%20build-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="CONTACT Let's build" /></a>
+<a href="mailto:masoud.xpress@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — Get in touch" /></a>
 
 <br /><br />
 
