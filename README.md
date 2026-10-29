@@ -145,8 +145,8 @@ const masoud = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=urmiaking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub stats" width="49%" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=urmiaking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" alt="Languages in public GitHub repositories" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=urmiaking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub stats" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=urmiaking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" alt="Languages in public GitHub repositories" width="49%" />
 
 <br />
 
