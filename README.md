@@ -177,3 +177,13 @@ Let's talk about shipping something useful and reliable.
 
 <sub>Made with engineering judgment, curiosity, and a little neon. ✦</sub>
 </div>
+
+---
+
+## 🟩 Masoud — contribution art
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/urmiaking/urmiaking/main/assets/masoud-contribution-art.svg" width="100%" alt="Animated GitHub contribution-style pixel art spelling Masoud in green squares" />
+
+</div>
