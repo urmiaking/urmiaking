@@ -184,6 +184,6 @@ Let's talk about shipping something useful and reliable.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/urmiaking/urmiaking/main/assets/masoud-contribution-art.svg" width="100%" alt="Animated GitHub contribution-style pixel art spelling Masoud in green squares" />
+<img src="https://raw.githubusercontent.com/urmiaking/urmiaking/main/assets/masoud-contribution-art.svg?v=2" width="100%" alt="Animated GitHub contribution-style pixel art spelling Masoud in green squares" />
 
 </div>
